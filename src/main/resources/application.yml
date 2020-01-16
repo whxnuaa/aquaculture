@@ -1,0 +1,151 @@
+server:
+  port: 8009
+
+#debug: true
+spring:
+# 数据库连接
+  datasource:
+    url: jdbc:mysql://111.229.163.181:3306/shuichan?useUnicode=true&characterEncoding=utf8&useSSL=false
+#    url: jdbc:mysql://127.0.0.1:3306/shuichan?useUnicode=true&characterEncoding=utf8&useSSL=true
+#    url: jdbc:mysql://192.168.100.91:3306/shuichan?useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: nsi-xu811
+#    password: jit-dev1217
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: org.apache.commons.dbcp2.BasicDataSource
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+#influxdb
+  influx:
+    url: http://192.168.100.11:8086
+    user: root
+    password: root
+    database: iot_test
+
+
+##################
+#  Mina 配置
+##################
+#jit工控机上报端口号、采集最长上报周期单位分钟
+jit_embed:
+  port: 7080
+  rptperiod: 5
+
+  #农芯终端上报端口号、采集最长上报周期单位分钟
+ep400:
+  port: 10011
+  rptperiod: 60
+
+#lora采集上报周期
+lora:
+  rptperiod: 60
+  appname: seeed-application
+
+##################
+#  MQTT 配置
+##################
+mqtt:
+  # 用户名
+  username: admin
+  # 密码
+  password: password
+  # 推送信息的连接地址，如果有多个，用逗号隔开，如：tcp://127.0.0.1:61613,tcp://192.168.1.61:61613
+  url: tcp://111.229.163.181:1883
+  #生产者
+  producer:
+    # 连接服务器默认客户端ID
+    clientId: mqttProducer
+   # 默认的推送主题，实际可在调用接口时指定
+    defaultTopic: topic1
+  consumer:
+    # 连接服务器默认客户端ID
+    clientId: mqttConsumer2
+    # 默认的接收主题，可以订阅多个Topic，逗号分隔
+    defaultTopic: application/1/device/+/rx,application/2/device/+/rx
+
+
+##配置文件上传目录
+image:
+#  url: D:/
+  url: http://111.229.163.181:80
+  observe:
+    path: /home/ubuntu/jit/resource/
+    url: /observe/
+
+
+  user:
+    path: /home/ubuntu/jit/resource/
+    url: http://115.28.154.41:8081/planting/user/
+
+  diseaseStore:
+   path: /home/ubuntu/jit/resource/
+   url: http://115.28.154.41:8081/planting/disease/
+
+  knowledgeStore:
+   path: /home/ubuntu/jit/resource/
+   url: http://115.28.154.41:8081/planting/knowledge/
+
+  technologyStore:
+    path: /home/ubuntu/jit/resource/
+    url: http://115.28.154.41:8081/planting/technology/
+
+  question:
+    path: /home/ubuntu/jit/resource/
+    url: http://115.28.154.41:8081/planting/question/
+
+
+
+
+# redis配置
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    pool:
+      max-active: 50
+      max-wait: -1
+      max-idle: 8
+      min-idle: 0
+      # 超时 毫秒
+    timeout: 6000
+    database: 0
+# mybatis配置
+mybatis:
+  mapper-locations: classpath:mybatis/*mapper.xml
+  type-aliases-package: com.jit.aquaculture.domain
+# mybatis-plus 配置
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+  global-config:
+    db-column-underline: true
+    id-type: 0
+    capital-mode: true
+# 分页插件
+pagehelper:
+  reasonable: false
+  support-methods-arguments: true
+  params: count=countSql
+  row-bounds-with-count: true
+  helper-dialect: mysql
+## 日志
+logging:
+  level:
+    com.jit.aquaculture: debug
+  config: classpath:logback-spring.xml
+# JWT 配置
+jwt:
+  config:
+      # 过期时长 单位毫秒
+    expiry: 6000000
+      # 签发者
+    issuer: jit
+      # 私钥
+    base64Security: jit_base64Security
+  route:
+    authentication:
+      path: auth
+      refresh: refresh
+      register: auth/signup
+

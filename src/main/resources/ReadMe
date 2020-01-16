@@ -1,0 +1,118 @@
+1、实现的是动态权限分配（用户，角色，权限）
+2、将jwt与security整合起来
+本项目的目的是实现权限的动态分配，基本数据库表为用户，角色，用户角色关系表，权限，角色权限关系表，
+根据资源访问的请求方式（GET/POST/PUT/DELETE）是否列入判断有资格访问资源的依据分为两种形式。
+(1)将请求方式作为判断用户是否有权限访问的依据
+    由于要判断 url 和 method，所以要在 JwtUserDetailsServiceImpl 类的 loadUserByUsername 方法中要添加
+权限的 url 和 method。但是 SimpleGrantedAuthority 只支持传入一个参数.所以考虑要再写一个类实现 GrantedAuthority
+接口，并在构造函数中传入两个参数。
+    要判断 url 还要判断 method，所以要修改 MyAccessDecisionManager 的 decide 方法的内容。
+一、在 JwtUserDetailsServiceImpl 类中：
+public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+        User user = userMapper.findByUsername(username);
+        System.out.println("user.name: " + user.getUsername() + " user: " + user);
+        if (user != null) {
+            List<Permission> permissions = permissionMapper.findByUserId(user.getId());
+            System.out.println("permissions: " + permissions);
+            List<GrantedAuthority> grantedAuthorities = new ArrayList<>();
+            for (Permission permission : permissions) {
+                if (permission != null && permission.getName() != null) {
+                    GrantedAuthority grantedAuthority = new MyGrantedAuthority(permission.getUrl(),permission.getMethod());
+                    grantedAuthorities.add(grantedAuthority);
+                    System.out.println("grantedAuthorities:" + grantedAuthorities.toString());
+                }
+            }
+            return new JwtUser(user.getId(),user.getUsername(),user.getPassword(),grantedAuthorities,user.getRegistertime());
+        } else {
+            throw new UsernameNotFoundException(String.format("No user found with username '%s'.", username));
+        }
+    }
+二、在 MyAccessDecisionManager 类中：
+    @Override
+    public void decide(Authentication authentication, Object object, Collection<ConfigAttribute> configAttributes) throws AccessDeniedException, InsufficientAuthenticationException {
+        //将接口的method方法也作为是否可以访问的依据
+        HttpServletRequest request = ((FilterInvocation) object).getHttpRequest();
+        System.out.println("MyAccessDecisionManager request.url: "+ request.getRequestURI() + " MyAccessDecisionManager request.method: "  + request.getMethod());
+        String url, method;
+        if("anonymousUser".equals(authentication.getPrincipal())
+                || matchers("/images/**", request)
+                || matchers("/js/**", request)
+                || matchers("/css/**", request)
+                || matchers("/fonts/**", request)
+                || matchers("/", request)
+                || matchers("/index.html", request)
+                || matchers("/favicon.ico", request)
+                || matchers("/login",request)){
+            return;
+        }else {
+            for (GrantedAuthority grantedAuthority : authentication.getAuthorities()) {
+                System.out.println("MyAccessDecisionManager grantedAuthority " + authentication.getAuthorities());
+                if (grantedAuthority instanceof MyGrantedAuthority) {
+                    MyGrantedAuthority urlGrantedAuthority = (MyGrantedAuthority) grantedAuthority;
+                    url = urlGrantedAuthority.getUrl();
+                    System.out.println("url: " + url);
+                    method = urlGrantedAuthority.getMethod();
+                    System.out.println("method: " + method);
+                    if (matchers(url, request)) {
+                        //当权限表权限的method为ALL时表示拥有此路径的所有请求方式权利
+                        if (method.equals(request.getMethod()) || "ALL".equals(method)) {
+                            return;
+                        }
+                    }
+                }
+            }
+        }
+        throw new AccessDeniedException("Access Denied");
+    }
+    private boolean matchers(String url,HttpServletRequest request){
+            AntPathRequestMatcher matcher = new AntPathRequestMatcher(url);
+            if (matcher.matches(request)){
+                return true;
+            }
+            return false;
+        }
+
+
+(2)不将请求方式作为判断用户是否有权限访问的依据
+需要：在数据库表permission中的url字段需写明每一个访问的url的完整地址。
+一、在 JwtUserDetailsServiceImpl 类中：
+public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+        User user = userMapper.findByUsername(username);
+        System.out.println("user.name: " + user.getUsername() + " user: " + user);
+        if (user != null) {
+            Collection<GrantedAuthority> grantedAuthorities = obtionGrantedAuthorities(user);
+            return new JwtUser(user.getId(),user.getUsername(),user.getPassword(),grantedAuthorities,user.getRegistertime());
+        } else {
+            throw new UsernameNotFoundException(String.format("No user found with username '%s'.", username));
+        }
+    }
+    private Set<GrantedAuthority> obtionGrantedAuthorities( User user){
+        List<Role> roles=roleMapper.findRolesByUsername(user.getUsername());
+        Set<GrantedAuthority>authSet = new HashSet<GrantedAuthority>();
+        for (Role role : roles) {
+            // 用户可以访问的资源名称（或者说用户所拥有的权限） 注意：必须"ROLE_"开头
+            authSet.add(new SimpleGrantedAuthority(role.getName()));
+        }
+        System.out.println("authSet11 "+ authSet);
+        return authSet;
+    }
+二、在 MyAccessDecisionManager 类中：
+@Override
+    public void decide(Authentication authentication, Object object, Collection<ConfigAttribute> configAttributes) throws AccessDeniedException, InsufficientAuthenticationException {
+        if (null == configAttributes || configAttributes.size()<=0){
+            return;
+        }
+        Iterator<ConfigAttribute> iterator = configAttributes.iterator();
+        while (iterator.hasNext()){
+            ConfigAttribute ca = iterator.next();
+            String needRole = ca.getAttribute();
+            System.out.println("needRole " + needRole + ", authentication.getAuthorities() " + authentication.getAuthorities());
+            for (GrantedAuthority ga: authentication.getAuthorities()){
+                //authentication 为在注释1 中循环添加到 GrantedAuthority 对象中的权限信息集合
+                if (needRole.trim().equals(ga.getAuthority())){
+                    return;
+                }
+            }
+        }
+        throw new AccessDeniedException("Access Denied");
+    }

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false">
+    <!--
+        说明：
+        1、日志级别及文件
+            日志记录采用分级记录，级别与日志文件名对应，不同级别的日志信息记录到不同的日志文件中
+            例如：error级别记录到log_error_xxx.log或log_error.log（该文件为当前记录的日志文件），而log_error_xxx.log为归档日志。
+            日志文件按日期记录，同一天内，若日志文件大小等于或大于10M,则按0、1、2顺序分别命名
+        2、Appender
+            FILEERROR对应error级别，文件名以eduAppLog-error-xxx.log形式命名
+            FILEWARN对应warn级别，文件名以eduAppLog-warn-xxx.log形式命名
+            FILEINFO对应info级别，文件名以eduAppLog-info-xxx.log形式命名
+            FILEDEBUG对应dubug级别，文件名以eduAppLog-debug-xxx.log形式命名
+            STDOUT将日志输出到控制台，方便测试使用
+    -->
+    <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+
+    <!--定义日志文件的存储地址 勿在 LogBack 的配置中使用相对路径-->
+    <property name="LOG_HOME" value="log" />
+
+    <!-- 控制台输出 -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <!--格式化输出：%d表示日期，%thread表示线程名，%-5level：级别从左显示5个字符宽度%msg：日志消息，%n是换行符-->
+            <pattern>${CONSOLE_LOG_PATTERN}</pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>info</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+    </appender>
+
+    <!-- 过滤器，记录DEBUG级别的日志 -->
+    <appender name="FILEDEBUG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- 正在记录的日志文件的路径及文件名-->
+        <file>${LOG_HOME}/log_debug.log</file>
+        <!-- 日志记录器的滚动策略，按照日志，大小记录 -->
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <FileNamePattern>${LOG_HOME}/debug/log-debug-%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+        </rollingPolicy>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+            <charset>utf-8</charset>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>debug</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+    </appender>
+
+    <!--日志记录器，日期滚动记录-->
+    <appender name="FILEERROR" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- 正在记录的日志文件的路径及文件名-->
+        <file>${LOG_HOME}/log_error.log</file>
+        <!-- 日志记录器的滚动策略，按照日志，大小记录 -->
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <FileNamePattern>${LOG_HOME}/error/log-error-%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+        </rollingPolicy>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+            <charset>utf-8</charset>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>error</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+    </appender>
+
+    <appender name="FILEWARN" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- 正在记录的日志文件的路径及文件名-->
+        <file>${LOG_HOME}/log_warn.log</file>
+        <!-- 日志记录器的滚动策略，按照日志，大小记录 -->
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <FileNamePattern>${LOG_HOME}/warn/log-warn-%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+        </rollingPolicy>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+            <charset>utf-8</charset>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>warn</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+    </appender>
+
+
+    <appender name="FILEINFO" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- 正在记录的日志文件的路径及文件名-->
+        <file>${LOG_HOME}/log_info.log</file>
+        <!-- 日志记录器的滚动策略，按照日志，大小记录 -->
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <FileNamePattern>${LOG_HOME}/info/log-info-%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxFileSize>10MB</maxFileSize>
+        </rollingPolicy>
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+            <charset>utf-8</charset>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>info</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+    </appender>
+
+    <!--<appender name="LOGSTASH" class="net.logstash.logback.appender.LogstashAccessTcpSocketAppender">-->
+        <!--<destination>127.0.0.1:9250</destination>-->
+        <!--<encoder charset="UTF-8" class="net.logstash.logback.encoder.LogstashEncoder" />-->
+    <!--</appender>-->
+
+    <!-- 日志输出级别 -->
+    <root level="info">
+        <appender-ref ref="FILEERROR" />
+        <appender-ref ref="FILEWARN" />
+        <appender-ref ref="FILEINFO" />
+        <!--<appender-ref ref="FILEDEBUG" />-->
+        <appender-ref ref="STDOUT" />
+        <!--<appender-ref ref="LOGSTASH" />-->
+    </root>
+
+</configuration>

@@ -1,0 +1,9 @@
+[
+  {
+    "type": "RELAY_DMA",
+    "fcode": 5,
+    "road": 8,
+    "on": 65280,
+    "off": 0
+  }
+]

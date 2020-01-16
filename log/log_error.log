@@ -1,0 +1,1136 @@
+2020-01-14 15:04:00.061 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.064 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.064 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.085 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.085 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.085 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.085 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.086 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.107 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.107 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.107 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.127 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.127 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.127 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.127 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.149 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.149 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.149 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.150 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.171 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.171 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.172 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.193 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.193 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.193 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.246 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.247 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.247 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.268 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.268 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.269 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.298 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.315 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:04:00.331 ERROR 1944 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.762 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.778 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.779 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.802 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.802 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.802 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.802 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.802 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.826 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.826 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.826 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.847 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.848 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.848 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.848 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.872 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.872 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.872 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.872 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.896 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.896 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.896 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.920 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.921 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.921 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.990 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.991 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:50.991 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:51.019 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:51.020 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:51.020 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:51.109 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:51.128 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:23:51.145 ERROR 8176 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.481 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.500 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.501 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.524 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.525 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.525 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.525 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.525 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.549 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.549 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.549 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.570 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.570 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.570 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.570 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.596 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.596 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.596 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.596 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.620 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.620 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.620 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.646 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.646 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.646 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.706 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.706 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.706 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.730 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.730 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:42.730 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:43.264 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:43.297 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:29:43.321 ERROR 2804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.677 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.678 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.678 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.700 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.701 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.701 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.701 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.702 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.725 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.726 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.726 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.751 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.751 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.752 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.752 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.775 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.775 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.775 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.776 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.797 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.797 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.797 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.822 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.822 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.822 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.885 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.886 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.886 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.909 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.909 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.909 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.951 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.971 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:30.990 ERROR 6612 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.709 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.710 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.711 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.736 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.737 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.737 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.737 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.737 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.764 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.764 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.765 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.789 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.790 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.790 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.790 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.818 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.819 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.819 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.819 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.849 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.849 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.849 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.881 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.881 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.882 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.962 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.962 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.962 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:39.999 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:40.000 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:40.000 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:40.047 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:40.072 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:40.095 ERROR 6900 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:33:41.589 ERROR 6900 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'ioJitAcceptor' defined in class path resource [com/jit/aquaculture/config/iot/MinaConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.mina.core.service.IoAcceptor]: Factory method 'ioJitAcceptor' threw exception; nested exception is java.io.IOException: Error while binding on 0.0.0.0/0.0.0.0:7080
+original message : Address already in use: bind
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:656)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:484)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:747)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at com.jit.aquaculture.AquacultureApplication.main(AquacultureApplication.java:19)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.mina.core.service.IoAcceptor]: Factory method 'ioJitAcceptor' threw exception; nested exception is java.io.IOException: Error while binding on 0.0.0.0/0.0.0.0:7080
+original message : Address already in use: bind
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:651)
+	... 19 common frames omitted
+Caused by: java.io.IOException: Error while binding on 0.0.0.0/0.0.0.0:7080
+original message : Address already in use: bind
+	at org.apache.mina.transport.socket.nio.NioSocketAcceptor.open(NioSocketAcceptor.java:257)
+	at org.apache.mina.transport.socket.nio.NioSocketAcceptor.open(NioSocketAcceptor.java:50)
+	at org.apache.mina.core.polling.AbstractPollingIoAcceptor$Acceptor.registerHandles(AbstractPollingIoAcceptor.java:591)
+	at org.apache.mina.core.polling.AbstractPollingIoAcceptor$Acceptor.run(AbstractPollingIoAcceptor.java:460)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+2020-01-14 15:34:25.641 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.643 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.644 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.675 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.675 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.676 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.676 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.676 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.704 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.704 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.705 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.728 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.728 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.728 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.729 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.753 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.754 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.754 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.754 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.777 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.777 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.777 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.802 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.803 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.803 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.861 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.862 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.862 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.886 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.886 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.887 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.921 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.939 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:34:25.959 ERROR 8324 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:35:11.154 ERROR 8324 --- [MQTT Ping: mqttConsumer2] o.e.p.c.mqttv3.internal.ClientState      : mqttConsumer2: Timed out as no write activity, keepAlive=20,000,000,000 lastOutboundActivity=3,969,092,110,349 lastInboundActivity=3,973,546,031,537 time=4,010,931,659,089 lastPing=0
+2020-01-14 15:35:11.196 ERROR 8324 --- [MQTT Ping: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: Timed out while waiting to write messages to the server; retrying...
+2020-01-14 15:36:02.875 ERROR 8324 --- [MQTT Ping: mqttConsumer2] o.e.p.c.mqttv3.internal.ClientState      : mqttConsumer2: Timed out as no write activity, keepAlive=20,000,000,000 lastOutboundActivity=4,022,212,718,835 lastInboundActivity=4,022,223,571,135 time=4,063,558,102,711 lastPing=0
+2020-01-14 15:36:02.881 ERROR 8324 --- [MQTT Ping: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: Timed out while waiting to write messages to the server; retrying...
+2020-01-14 15:38:52.752 ERROR 8324 --- [MQTT Ping: mqttConsumer2] o.e.p.c.mqttv3.internal.ClientState      : mqttConsumer2: Timed out as no write activity, keepAlive=20,000,000,000 lastOutboundActivity=4,102,154,063,602 lastInboundActivity=4,102,165,227,541 time=4,233,431,997,320 lastPing=4,102,154,084,751
+2020-01-14 15:38:53.836 ERROR 8324 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 15:40:41.464 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.465 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.466 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.489 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.489 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.489 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.490 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.490 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.513 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.513 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.513 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.535 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.535 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.535 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.536 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.558 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.559 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.559 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.559 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.583 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.583 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.583 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.609 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.609 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.609 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.668 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.668 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.668 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.695 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.696 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.697 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.732 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.753 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:40:41.773 ERROR 8804 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:42:01.253 ERROR 8804 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 15:45:53.598 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.599 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.600 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.624 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.625 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.625 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.625 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.625 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.653 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.653 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.653 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.679 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.679 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.679 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.679 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.718 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.718 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.718 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.718 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.742 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.742 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.743 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.767 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.767 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.767 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.823 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.823 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.824 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.847 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.847 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.848 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.880 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.899 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:45:53.917 ERROR 2800 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:06.986 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:06.997 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:06.998 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.021 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.021 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.021 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.022 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.022 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.046 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.047 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.047 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.070 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.070 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.070 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.071 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.098 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.098 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.099 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.099 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.123 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.124 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.124 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.148 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.148 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.148 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.208 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.209 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.209 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.238 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.239 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.239 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.327 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.351 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:49:07.384 ERROR 4376 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.868 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.869 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.869 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.893 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.893 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.893 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.893 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.894 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.918 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.918 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.919 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.950 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.951 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.951 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.951 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.973 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.973 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.973 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.974 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.994 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.995 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:52.995 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.017 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.018 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.018 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.068 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.068 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.068 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.090 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.091 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.091 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.125 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.145 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:50:53.162 ERROR 7668 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.761 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.780 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.781 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.807 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.807 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.807 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.807 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.808 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.838 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.838 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.838 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.905 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.905 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.905 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.905 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.927 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.927 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.928 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.928 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.950 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.950 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.950 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.973 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.973 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:23.973 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.029 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.029 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.029 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.052 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.052 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.052 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.089 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.108 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:24.125 ERROR 8396 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 15:59:37.025 ERROR 8396 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 15:59:57.689 ERROR 8396 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:00:18.359 ERROR 8396 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:00:40.053 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.054 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.055 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.079 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.079 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.079 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.080 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.080 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.104 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.104 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.105 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.127 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.127 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.127 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.127 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.151 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.151 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.151 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.151 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.173 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.174 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.174 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.198 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.198 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.198 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.254 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.254 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.255 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.281 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.281 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.282 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.316 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.339 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:40.361 ERROR 1196 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:00:46.445 ERROR 1196 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:04:58.591 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.591 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.592 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.617 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.617 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.617 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.617 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.618 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.650 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.650 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.650 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.670 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.671 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.671 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.671 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.698 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.698 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.698 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.698 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.727 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.727 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.727 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.749 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.749 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.749 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.807 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.807 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.807 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.829 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.829 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.830 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.860 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.876 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:04:58.892 ERROR 8340 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:05:11.051 ERROR 8340 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:05:31.719 ERROR 8340 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:05:52.390 ERROR 8340 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:06:13.102 ERROR 8340 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:06:33.825 ERROR 8340 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:06:54.495 ERROR 8340 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:07:19.560 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.561 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.562 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.585 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.586 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.586 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.586 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.587 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.612 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.612 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.612 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.636 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.636 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.636 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.637 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.665 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.666 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.666 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.666 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.693 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.693 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.693 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.720 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.721 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.721 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.790 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.790 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.790 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.812 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.812 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.813 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.845 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.863 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:19.880 ERROR 2656 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:07:42.925 ERROR 2656 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:10:57.931 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.932 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.933 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.955 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.955 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.956 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.956 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.956 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.979 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.979 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:57.979 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.000 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.001 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.001 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.001 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.025 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.026 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.026 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.026 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.048 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.048 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.049 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.072 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.072 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.073 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.128 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.128 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.129 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.153 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.153 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.154 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.191 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.212 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:10:58.231 ERROR 7124 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:11:03.768 ERROR 7124 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:11:35.063 ERROR 7124 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+### The error may exist in com/jit/aquaculture/mapper/daily/DailyTemplateMapper.java (best guess)
+### The error may involve com.jit.aquaculture.mapper.daily.DailyTemplateMapper.selectList
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:77)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy94.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:230)
+	at org.apache.ibatis.binding.MapperMethod.executeForMany(MapperMethod.java:137)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:75)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy108.selectList(Unknown Source)
+	at com.jit.aquaculture.commons.ScheduledTasks.insertDailyThrow(ScheduledTasks.java:52)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:308)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+### The error may exist in com/jit/aquaculture/mapper/daily/DailyTemplateMapper.java (best guess)
+### The error may involve com.jit.aquaculture.mapper.daily.DailyTemplateMapper.selectList
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:30)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:150)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.GeneratedMethodAccessor161.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 21 common frames omitted
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:68)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:84)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at com.github.pagehelper.PageInterceptor.intercept(PageInterceptor.java:143)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy212.query(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	... 26 common frames omitted
+Caused by: java.sql.SQLException: Data source is closed
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2048)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1525)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:158)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:116)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:79)
+	... 38 common frames omitted
+
+2020-01-14 16:13:04.684 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.685 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.685 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.708 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.709 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.709 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.709 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.709 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.733 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.733 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.733 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.756 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.756 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.756 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.756 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.781 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.782 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.782 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.783 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.808 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.808 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.808 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.834 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.834 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.834 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.903 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.903 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.903 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.928 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.928 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.929 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.961 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.980 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:04.997 ERROR 8148 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:13:18.743 ERROR 8148 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:13:45.063 ERROR 8148 --- [scheduling-1] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+### The error may exist in com/jit/aquaculture/mapper/daily/DailyTemplateMapper.java (best guess)
+### The error may involve com.jit.aquaculture.mapper.daily.DailyTemplateMapper.selectById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:77)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy94.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:82)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy108.selectById(Unknown Source)
+	at com.jit.aquaculture.commons.ScheduledTasks.insertDailyThrow(ScheduledTasks.java:66)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset$$$capture(FutureTask.java:308)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+### The error may exist in com/jit/aquaculture/mapper/daily/DailyTemplateMapper.java (best guess)
+### The error may involve com.jit.aquaculture.mapper.daily.DailyTemplateMapper.selectById
+### The error occurred while executing a query
+### Cause: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:30)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:150)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 20 common frames omitted
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is java.sql.SQLException: Data source is closed
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:82)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:68)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:84)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at com.github.pagehelper.PageInterceptor.intercept(PageInterceptor.java:143)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy212.query(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	... 27 common frames omitted
+Caused by: java.sql.SQLException: Data source is closed
+	at org.apache.commons.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:2048)
+	at org.apache.commons.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:1525)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:158)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:116)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:79)
+	... 39 common frames omitted
+
+2020-01-14 16:14:20.223 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.224 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.225 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.250 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.250 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.250 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.251 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.251 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.284 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.284 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.284 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.304 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.305 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.305 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.306 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.336 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.336 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.337 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.337 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.368 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.368 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.368 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.397 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.397 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.397 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.459 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.459 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.459 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.490 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.490 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.491 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.534 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.556 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:20.576 ERROR 9044 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:14:33.085 ERROR 9044 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:15:01.714 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.715 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.716 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.738 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.738 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.739 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.739 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.739 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.764 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.764 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.764 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.795 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.795 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.796 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.796 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.818 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.818 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.819 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.819 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.845 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.845 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.845 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.868 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.868 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.868 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.919 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.920 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.920 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.941 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.941 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.942 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.972 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:01.989 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:02.007 ERROR 8808 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:15:14.221 ERROR 8808 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:17:05.572 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.573 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.574 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.597 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.597 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.597 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.597 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.598 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.621 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.621 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.621 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.643 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.644 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.644 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.644 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.670 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.670 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.670 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.670 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.693 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.693 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.693 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.719 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.719 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.719 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.779 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.779 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.780 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.806 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.806 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.807 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.853 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.871 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:05.890 ERROR 8952 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:17:18.652 ERROR 8952 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:25:45.583 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.584 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.584 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.607 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.607 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.607 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.607 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.608 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.631 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.631 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.631 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.653 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.654 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.654 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.654 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.680 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.680 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.680 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.680 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.704 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.704 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.704 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.747 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.747 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.747 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.801 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.801 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.801 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.823 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.823 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.824 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.854 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.871 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:45.888 ERROR 7768 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:25:59.244 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:26:19.925 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:26:40.595 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:27:01.257 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:27:21.932 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:27:42.606 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:28:03.292 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:28:20.464 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:28:36.900 ERROR 7768 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:32:53.153 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.165 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.166 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.AnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.189 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.189 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.189 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.190 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.190 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.KnowledgeMapper.updateById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.215 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.215 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.216 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.DiseaseMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.240 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.240 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.240 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.241 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.FertilizerMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.273 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.274 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.274 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.274 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.PesticideMapper.selectById] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.297 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.297 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.297 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.TechnologyMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.319 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.319 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.320 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.knowledge.QuestionMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.369 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.369 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.369 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.CustomerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.391 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.update] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.391 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.delete] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.392 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.ExpertMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.499 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.WebrtcLogMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.537 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:32:53.556 ERROR 8316 --- [main] c.b.mybatisplus.MybatisConfiguration     : mapper[com.jit.aquaculture.mapper.user.LeaveMsgAnswerMapper.insert] is ignored, because it's exists, maybe from xml file
+2020-01-14 16:33:09.864 ERROR 8316 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:33:27.052 ERROR 8316 --- [MQTT Call: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Unhandled exception for GenericMessage [payload={"applicationID":"1","applicationName":"seeed-application","deviceName":"soil-temphumi-002a","devEUI":"2cf7f1221380002a","rxInfo":[{"gatewayID":"020000000200008e","uplinkID":"a0bc0d4c-2b63-49fc-95a6-b5eee979bcb6","name":"","rssi":-44,"loRaSNR":10.5,"location":null},{"gatewayID":"020000000200008e","uplinkID":"ce33c8c1-77f8-4c70-8c26-cd1254ca653e","name":"","rssi":-71,"loRaSNR":6.5,"location":null}],"txInfo":{"frequency":487700000,"dr":5},"adr":true,"fCnt":294,"fPort":2,"data":"AQYQkjsAAAEHEJABAABQ3g=="}, headers={mqtt_receivedRetained=false, id=b01ffea1-3e90-9ee7-4006-304509def5eb, mqtt_duplicate=false, mqtt_receivedTopic=application/1/device/2cf7f1221380002a/rx, mqtt_receivedQos=0, timestamp=1578990806592}]
+
+org.springframework.messaging.MessageHandlingException: error occurred in message handler [bean 'mqttConfig.handler.serviceActivator.handler']; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+### The error may exist in com/jit/aquaculture/mapper/iot/TermDAO.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  ID AS id,`type`,deveui,`name`,usrid,`status`  FROM termdef   WHERE  (deveui = ?) LIMIT 1
+### Cause: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+	at org.springframework.integration.support.utils.IntegrationUtils.wrapInHandlingExceptionIfNecessary(IntegrationUtils.java:191)
+	at org.springframework.integration.handler.AbstractMessageHandler.handleMessage(AbstractMessageHandler.java:187)
+	at org.springframework.integration.dispatcher.AbstractDispatcher.tryOptimizedDispatch(AbstractDispatcher.java:115)
+	at org.springframework.integration.dispatcher.UnicastingDispatcher.doDispatch(UnicastingDispatcher.java:133)
+	at org.springframework.integration.dispatcher.UnicastingDispatcher.dispatch(UnicastingDispatcher.java:106)
+	at org.springframework.integration.channel.AbstractSubscribableChannel.doSend(AbstractSubscribableChannel.java:73)
+	at org.springframework.integration.channel.AbstractMessageChannel.send(AbstractMessageChannel.java:453)
+	at org.springframework.integration.channel.AbstractMessageChannel.send(AbstractMessageChannel.java:403)
+	at org.springframework.messaging.core.GenericMessagingTemplate.doSend(GenericMessagingTemplate.java:187)
+	at org.springframework.messaging.core.GenericMessagingTemplate.doSend(GenericMessagingTemplate.java:166)
+	at org.springframework.messaging.core.GenericMessagingTemplate.doSend(GenericMessagingTemplate.java:47)
+	at org.springframework.messaging.core.AbstractMessageSendingTemplate.send(AbstractMessageSendingTemplate.java:109)
+	at org.springframework.integration.endpoint.MessageProducerSupport.sendMessage(MessageProducerSupport.java:198)
+	at org.springframework.integration.mqtt.inbound.MqttPahoMessageDrivenChannelAdapter.messageArrived(MqttPahoMessageDrivenChannelAdapter.java:350)
+	at org.eclipse.paho.client.mqttv3.internal.CommsCallback.deliverMessage(CommsCallback.java:513)
+	at org.eclipse.paho.client.mqttv3.internal.CommsCallback.handleMessage(CommsCallback.java:416)
+	at org.eclipse.paho.client.mqttv3.internal.CommsCallback.run(CommsCallback.java:213)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+### The error may exist in com/jit/aquaculture/mapper/iot/TermDAO.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  ID AS id,`type`,deveui,`name`,usrid,`status`  FROM termdef   WHERE  (deveui = ?) LIMIT 1
+### Cause: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:235)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy94.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:230)
+	at org.apache.ibatis.binding.MapperMethod.executeForMany(MapperMethod.java:137)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:75)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy126.selectList(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy127.selectList(Unknown Source)
+	at com.jit.aquaculture.serviceimpl.iot.custom.TerminalServiceImpl.getTermById(TerminalServiceImpl.java:73)
+	at com.jit.aquaculture.serviceimpl.iot.custom.TerminalServiceImpl.updateTermSta(TerminalServiceImpl.java:82)
+	at com.jit.aquaculture.serviceimpl.iot.custom.TerminalServiceImpl.loginTerm(TerminalServiceImpl.java:47)
+	at com.jit.aquaculture.serviceimpl.iot.impl.LoraServiceImpl.doSeeed(LoraServiceImpl.java:66)
+	at com.jit.aquaculture.serviceimpl.iot.impl.LoraServiceImpl.payloadDecode(LoraServiceImpl.java:51)
+	at com.jit.aquaculture.config.iot.MqttConfig$1.handleMessage(MqttConfig.java:180)
+	at org.springframework.integration.handler.ReplyProducingMessageHandlerWrapper.handleRequestMessage(ReplyProducingMessageHandlerWrapper.java:49)
+	at org.springframework.integration.handler.AbstractReplyProducingMessageHandler.handleMessageInternal(AbstractReplyProducingMessageHandler.java:127)
+	at org.springframework.integration.handler.AbstractMessageHandler.handleMessage(AbstractMessageHandler.java:170)
+	... 16 common frames omitted
+Caused by: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at org.apache.commons.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:318)
+	at org.apache.commons.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:318)
+	at sun.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59)
+	at com.sun.proxy.$Proxy215.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:63)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at sun.reflect.GeneratedMethodAccessor151.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.plugins.PerformanceInterceptor.intercept(PerformanceInterceptor.java:151)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy213.query(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at com.github.pagehelper.PageInterceptor.intercept(PageInterceptor.java:143)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy212.query(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.GeneratedMethodAccessor163.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 42 common frames omitted
+
+2020-01-14 16:33:27.088 ERROR 8316 --- [MQTT Call: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: MqttException; retrying...
+2020-01-14 16:33:39.041 ERROR 8316 --- [MQTT Call: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Unhandled exception for GenericMessage [payload={"applicationID":"1","applicationName":"seeed-application","deviceName":"soil-temphumi-002a","devEUI":"2cf7f1221380002a","rxInfo":[{"gatewayID":"020000000200008e","uplinkID":"1577a2a8-6f0b-4c78-bc0d-7fbe088cfd92","name":"","rssi":-43,"loRaSNR":7.5,"location":null}],"txInfo":{"frequency":486300000,"dr":5},"adr":true,"fCnt":295,"fPort":2,"data":"AQYQkjsAAAEHEJABAABQ3g=="}, headers={mqtt_receivedRetained=false, id=c69f9c90-0b3f-757a-0db9-1ef421e70e59, mqtt_duplicate=false, mqtt_receivedTopic=application/1/device/2cf7f1221380002a/rx, mqtt_receivedQos=0, timestamp=1578990819024}]
+
+org.springframework.messaging.MessageHandlingException: error occurred in message handler [bean 'mqttConfig.handler.serviceActivator.handler']; nested exception is org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+### The error may exist in com/jit/aquaculture/mapper/iot/TermDAO.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  ID AS id,`type`,deveui,`name`,usrid,`status`  FROM termdef   WHERE  (deveui = ?) LIMIT 1
+### Cause: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+	at org.springframework.integration.support.utils.IntegrationUtils.wrapInHandlingExceptionIfNecessary(IntegrationUtils.java:191)
+	at org.springframework.integration.handler.AbstractMessageHandler.handleMessage(AbstractMessageHandler.java:187)
+	at org.springframework.integration.dispatcher.AbstractDispatcher.tryOptimizedDispatch(AbstractDispatcher.java:115)
+	at org.springframework.integration.dispatcher.UnicastingDispatcher.doDispatch(UnicastingDispatcher.java:133)
+	at org.springframework.integration.dispatcher.UnicastingDispatcher.dispatch(UnicastingDispatcher.java:106)
+	at org.springframework.integration.channel.AbstractSubscribableChannel.doSend(AbstractSubscribableChannel.java:73)
+	at org.springframework.integration.channel.AbstractMessageChannel.send(AbstractMessageChannel.java:453)
+	at org.springframework.integration.channel.AbstractMessageChannel.send(AbstractMessageChannel.java:403)
+	at org.springframework.messaging.core.GenericMessagingTemplate.doSend(GenericMessagingTemplate.java:187)
+	at org.springframework.messaging.core.GenericMessagingTemplate.doSend(GenericMessagingTemplate.java:166)
+	at org.springframework.messaging.core.GenericMessagingTemplate.doSend(GenericMessagingTemplate.java:47)
+	at org.springframework.messaging.core.AbstractMessageSendingTemplate.send(AbstractMessageSendingTemplate.java:109)
+	at org.springframework.integration.endpoint.MessageProducerSupport.sendMessage(MessageProducerSupport.java:198)
+	at org.springframework.integration.mqtt.inbound.MqttPahoMessageDrivenChannelAdapter.messageArrived(MqttPahoMessageDrivenChannelAdapter.java:350)
+	at org.eclipse.paho.client.mqttv3.internal.CommsCallback.deliverMessage(CommsCallback.java:513)
+	at org.eclipse.paho.client.mqttv3.internal.CommsCallback.handleMessage(CommsCallback.java:416)
+	at org.eclipse.paho.client.mqttv3.internal.CommsCallback.run(CommsCallback.java:213)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+### The error may exist in com/jit/aquaculture/mapper/iot/TermDAO.java (best guess)
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: SELECT  ID AS id,`type`,deveui,`name`,usrid,`status`  FROM termdef   WHERE  (deveui = ?) LIMIT 1
+### Cause: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+; bad SQL grammar []; nested exception is java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+	at org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator.doTranslate(SQLErrorCodeSQLExceptionTranslator.java:235)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy94.selectList(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectList(SqlSessionTemplate.java:230)
+	at org.apache.ibatis.binding.MapperMethod.executeForMany(MapperMethod.java:137)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:75)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy126.selectList(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy127.selectList(Unknown Source)
+	at com.jit.aquaculture.serviceimpl.iot.custom.TerminalServiceImpl.getTermById(TerminalServiceImpl.java:73)
+	at com.jit.aquaculture.serviceimpl.iot.custom.TerminalServiceImpl.updateTermSta(TerminalServiceImpl.java:82)
+	at com.jit.aquaculture.serviceimpl.iot.custom.TerminalServiceImpl.loginTerm(TerminalServiceImpl.java:47)
+	at com.jit.aquaculture.serviceimpl.iot.impl.LoraServiceImpl.doSeeed(LoraServiceImpl.java:66)
+	at com.jit.aquaculture.serviceimpl.iot.impl.LoraServiceImpl.payloadDecode(LoraServiceImpl.java:51)
+	at com.jit.aquaculture.config.iot.MqttConfig$1.handleMessage(MqttConfig.java:180)
+	at org.springframework.integration.handler.ReplyProducingMessageHandlerWrapper.handleRequestMessage(ReplyProducingMessageHandlerWrapper.java:49)
+	at org.springframework.integration.handler.AbstractReplyProducingMessageHandler.handleMessageInternal(AbstractReplyProducingMessageHandler.java:127)
+	at org.springframework.integration.handler.AbstractMessageHandler.handleMessage(AbstractMessageHandler.java:170)
+	... 16 common frames omitted
+Caused by: java.sql.SQLSyntaxErrorException: Table 'shuichan.termdef' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:370)
+	at org.apache.commons.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:318)
+	at org.apache.commons.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:318)
+	at sun.reflect.GeneratedMethodAccessor152.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.logging.jdbc.PreparedStatementLogger.invoke(PreparedStatementLogger.java:59)
+	at com.sun.proxy.$Proxy215.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:63)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at sun.reflect.GeneratedMethodAccessor151.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Invocation.proceed(Invocation.java:49)
+	at com.baomidou.mybatisplus.plugins.PerformanceInterceptor.intercept(PerformanceInterceptor.java:151)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy213.query(Unknown Source)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at com.github.pagehelper.PageInterceptor.intercept(PageInterceptor.java:143)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:61)
+	at com.sun.proxy.$Proxy212.query(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at sun.reflect.GeneratedMethodAccessor163.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 42 common frames omitted
+
+2020-01-14 16:33:39.043 ERROR 8316 --- [MQTT Call: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: MqttException; retrying...
+2020-01-14 16:33:59.713 ERROR 8316 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
+2020-01-14 16:34:20.390 ERROR 8316 --- [MQTT Rec: mqttConsumer2] .m.i.MqttPahoMessageDrivenChannelAdapter : Lost connection: 已断开连接; retrying...
